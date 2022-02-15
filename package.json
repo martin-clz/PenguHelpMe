@@ -1,7 +1,7 @@
 {
 	"name": "penguin-troubleshooting",
-	"displayName": "penguin-troubleshooting",
-	"description": "\"Solucionador de problemas Penguin\"",
+	"displayName": "Pengu Help Me",
+	"description": "Solucionador de problemas de Penguin",
 	"version": "0.0.1",
   	"publisher": "jorgemartincacereslopez",
 	"engines": {
