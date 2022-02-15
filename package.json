@@ -3,6 +3,7 @@
 	"displayName": "penguin-troubleshooting",
 	"description": "\"Solucionador de problemas Penguin\"",
 	"version": "0.0.1",
+  	"publisher": "jorgemartincacereslopez",
 	"engines": {
 		"vscode": "^1.64.0"
 	},
