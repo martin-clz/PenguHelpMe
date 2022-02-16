@@ -1,8 +1,8 @@
 {
 	"name": "penguin-troubleshooting",
 	"displayName": "Pengu Help Me",
-	"description": "Extensión solucionador de errores, dirigida a Desarrolladores Jr",
-	"version": "0.0.4",
+	"description": "Auxiliar de errores.",
+	"version": "0.0.5",
 	"publisher": "jorgemartincacereslopez",
 	"icon": "icon.jpg",
 	"engines": {
