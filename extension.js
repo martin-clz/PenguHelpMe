@@ -29,7 +29,7 @@ function activate(context) {
 		const respuesta = await axios.put(url, {validacion: input_value})
 
 		// La respuesta del server se visualiza en una notificacion
-		vscode.window.showInformationMessage(respuesta.data)
+		vscode.window.showInformationMessage("Pengu te recuerda: " + respuesta.data,);
 
 	});
 

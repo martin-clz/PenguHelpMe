@@ -2,7 +2,7 @@
 	"name": "penguin-troubleshooting",
 	"displayName": "Pengu Help Me",
 	"description": "Auxiliar de errores.",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"publisher": "jorgemartincacereslopez",
 	"icon": "icon.jpg",
 	"engines": {
